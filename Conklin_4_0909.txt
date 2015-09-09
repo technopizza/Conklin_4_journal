@@ -1,0 +1,1 @@
+Yesterday we created a directory and linux and linked that directory with git to make repository. This is important because it will allow us to implement version control when writing our code.
