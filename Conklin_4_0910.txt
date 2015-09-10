@@ -1,0 +1,7 @@
+Yesterday we practiced commiting and pushing files to our repository.
+
+Everytime we use git we will:
+
+pico today's journal
+commit -m all of our files
+push those files out to git
