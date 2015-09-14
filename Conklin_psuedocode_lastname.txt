@@ -1,0 +1,37 @@
+
+Begin:
+	Input a string into A
+	print A
+Done
+
+OR
+
+Begin:
+	face forward
+	do 4 times
+		draw left
+		wait 1 second
+		Turn left 90 degrees
+	do 3 times
+		draw right
+		wait 1 second
+		Turn right 90 degrees
+	draw back
+	wait 1.5 second
+	draw right
+	wait 1 second
+	do 2 times
+		turn left 135 degrees
+		draw forward
+		wait 1 second
+	turn right 90 degrees
+	draw forward
+	wait 0.5 seconds
+	turn right 90 degrees
+	draw forward
+	wait 0.5 seconds
+	turn left 135 degrees
+	draw forward
+	wait 0.5 seconds
+	turn 180 degrees
+
