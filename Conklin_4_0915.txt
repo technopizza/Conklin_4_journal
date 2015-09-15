@@ -1,0 +1,3 @@
+IDE stands for Integrated Develpoment Environment
+An IDE gives a programmer an easy to use GUI, organizes projects' filesystems and compiles code.
+IDEs can also provide numerous plugins which perform various useful functions.
