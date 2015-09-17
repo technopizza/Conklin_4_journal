@@ -1,0 +1,7 @@
+What are five different java data types? What arethey used for?
+
+1. int (positive or negative whole numbers, used for counting)
+2. boolean  (true or false, used in logic operators and conditional tasks)
+3. char (single ASCII character, used when manipulating text)
+4. long (whole numbers up to 2^63 - 1)
+5. float  (numbers with a decimal point, used when manipulating non-wholenumbers )
