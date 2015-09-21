@@ -1,0 +1,7 @@
+Have you recieved credit for all journals?
+		Yes
+Why is it important that you use the naming convention specified when naming files?
+	So that Mr.Davis can find it and correctly match the person to the grade
+What is the command to copy in Linux? To copy all of a directory to the current directory?
+	cp source destination
+	cp directory/* .
