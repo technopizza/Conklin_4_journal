@@ -1,0 +1,18 @@
+Copyright	the exclusive legal rights given to the creator of original media, who determines how the media can be used and distribute
+Copyleft	designates media that may be modified and distributed freely as long as media derived from the source follows in suit
+Fair Use	Limited use allows copying copyrighted work without the owner's permission as long as the action qualifies as free speech
+Free Speech	the inalienable right to advertise, speak, or insult whatever or whomever.
+Free Software	software that anyone may use or modify
+Freeware	software that does not cost any money
+Public Domain	works which have an expired or nonexistent copyright. Usually older works (Shakespeare, Old films)
+File-sharing	distribution of digital media that others may download and share
+Piracy		unathorized use or distribution of copyright material
+Plagiarism	claiming that someone else's work is your own
+Infringement	violating copyright
+Proprietary	having to do with ownership
+Open Source	software that anyone may use or modify and has its source code freely availible
+GNU GPL		GNU programs which guarantee that anyone may use or modify the code or program itself
+MIT License	software that anyone may use or modify, so long as the derived product also allows free use
+Apache Lisence	software that anyone may use or modify, so long as they respect other copyrights in the derived product
+EULA		agreement between software company and end user that specifies terms and conditions
+CreativeCommons	creative commons is an organization that defines several creative lisences
