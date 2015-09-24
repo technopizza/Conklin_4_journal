@@ -1,0 +1,6 @@
+Describe- Why did Steve Ballmer call the GPL a virus?
+	Steve Balmer claims that the open-source nature of the GPL cause all of a company's software products to be affected. Therefore public companies, such as Microsoft, cannot use the GPL.
+What is the relationship / difference between open source and proprietary software?
+	Proprietary software is owned by a corporate entity and access toits source code is restricted. Open Source, however is freely distributable and source code is available to anyone.
+What are the differences between the GPL and the MIT license? 
+	GPL lisenced software must be made open source when distributed. MIT lisenced software that is modified and distributed need not be made open source.
