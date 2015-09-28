@@ -1,0 +1,10 @@
+Paid Lisence	a full version of a program that youmust pay to use
+Shareware	software that is encouraged to share with others, but also that the creator requests donations for
+Trialware	free trial version of paid software. Expires at designated time, after which you must pay to use
+Ad-ware		software package/application that includes ads OR malware that sends unsolicited ads
+crippleware	software that lacks key features in order to get the user to pay or subscribe
+Freemium	software offered free of charge, but requires a purchase to access additional features or benefits
+FreeWare	software that has no monetary cost, but may have other restrictions and for which the source code is not public
+Richard Stallman	free software activist; founder of GNU Project and the Free Software Foundation; wrote the GNU GPL
+Lawrence Lessig		political activist and promoter of net neutrality
+Eben Moglen	professor of law and advocate for free software

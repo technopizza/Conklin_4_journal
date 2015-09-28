@@ -1,0 +1,7 @@
+How can you count in Java?
+	By using a for loop, we can count up or down
+	we can use and int variable, such as i
+How can you check to see if a number is divisible?
+	We can use modulo (%) to see if a number is evenly divisible by another number
+How can you track if a number has a divisor? 
+	We can use a conditional if statement that checks using modulo
