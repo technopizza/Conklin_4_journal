@@ -1,0 +1,6 @@
+
+
+What are methods? What are they good for?
+	Methods are commands defined by us that execute a chunk of code.We use them to repeat a chunk of code easily
+How can you use methods to find primes?
+	We can use methods to automate the repetitive process of checking even division
