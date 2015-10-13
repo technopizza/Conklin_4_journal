@@ -1,0 +1,11 @@
+What are your tentative thoughts / plans for your art project?
+	I'm going to re-create my processing program
+What might be methods you will use?
+	I will need a method to update the positions of all the objects on the screen
+How might you incorporate a for loop?
+	I will use a for loop tocycle through an array of objects
+How might you incorporate, if, else if, else?
+	If will incorporate if/else to check if an object is outside of the screen
+What math might you use? 
+	if(object.ypos > screenheight){
+		object.ypos = 0;}

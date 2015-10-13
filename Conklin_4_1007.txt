@@ -1,0 +1,6 @@
+What is a Java class?
+	A class is like a blueprint, or template, for "building" indivdual instances
+What might a Java class be for JavaFX?
+	An exmaple of a JavaFx class might be Canvas, so that we can draw shapes to it
+What might be a method for class? 
+	draw() which might let us draw to our canvas

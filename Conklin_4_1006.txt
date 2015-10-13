@@ -1,0 +1,8 @@
+What are methods?
+	"little programs" inside our program that can run repetitive  tasks easily.
+What are classes?
+	Classes are "blueprints" that let us define different objects
+What is an instance?
+	An instance is an individual manifestation of a class into an "object"
+What are class methods?
+	Class methods are methods defined within a class and must be run on elements of that class
