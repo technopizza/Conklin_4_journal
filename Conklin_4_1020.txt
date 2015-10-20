@@ -1,0 +1,15 @@
+Are you? Why or why not?
+	Yes, because I worked on them at home.
+This is a real question -- describe what you did the days we went over art methods. What did you write? type? What were your thoughts?
+	Slowly Iused myknowledge of geometry and trignometry to write math based methods
+Did you notice that art method code was shared in the journals (as proclaimed with very large text)? Why or why not?
+	No. I was not looking for it.
+Have you examined the sample code on github? Why or why not?
+	No. I did not really need help.
+Write a sample method for making a sequence of red squares on the canvas.
+	private void drawSquare(GraphicsContext gc, double[] centerpoint, double side) {
+//               double x=side/2;
+//               gc.setStroke(Color.BROWN);
+//               gc.setLineWidth(5);
+//               gc.strokePolygon(new double[]{centerpoint[0] - x, centerpoint[0] + x, centerpoint[0] + x, centerpoint[0] - x},
+//                       new double[]{centerpoint[1] + x, centerpoint[1] + x, centerpoint[1] - x, centerpoint[1] - x}, 4);
