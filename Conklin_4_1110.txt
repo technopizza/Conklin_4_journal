@@ -1,0 +1,6 @@
+How can you track the challenges your player has solved?
+	Use classes and boolean variables
+How can you track HP?
+	Use an integer variable
+Items?
+	Array of Item objects
