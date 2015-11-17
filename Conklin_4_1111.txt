@@ -1,0 +1,8 @@
+    In your game, what challenges must your player solve?
+		Player must fight monster
+    How will you specifically track whether they have been solved?
+			With variables that hold cumulative points
+    Provide variable names and types. Classes if applicable. 
+				int level
+				class Creature
+

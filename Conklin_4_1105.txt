@@ -1,0 +1,10 @@
+What are strings?
+	Strings are "strings" of text
+What are they good for?
+	They are good for text manipulation
+What are some string methods?
+		string.split()
+			string.toUpperCase()
+How do we identify string methods? 
+		we type string. and a list off methods appear.
+			A string methods can be called on a string
