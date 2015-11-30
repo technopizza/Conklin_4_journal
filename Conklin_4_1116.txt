@@ -1,0 +1,8 @@
+How will you use methods in your game? Why?
+	Methods in my game will be used to set important "tracker" variables
+	For example, useItem() decreases the total uses left of a consumable item.
+
+	Methods also will be used to track dynamic events such as combat
+
+What values will you pass to them.
+	I will pass values such as variables of Creature objects and Item objects, which will help to calculate final modifiers for combat used in the game

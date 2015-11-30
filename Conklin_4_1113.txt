@@ -1,0 +1,6 @@
+How will you use while loops in your game? Why?
+	I will use while loops to track repetitive actions.
+	The player menu, combat and text prompts all will be governed by conditional statemement inside of while loops
+How will you use methods in your game? Why?
+
+	I will use methods to track important variables. This will ensure tyhat player and monster stats remain accurate at all times
