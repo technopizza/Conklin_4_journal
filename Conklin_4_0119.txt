@@ -1,0 +1,8 @@
+What slick game did you create?
+	My game centers around an explorer collecting treasure
+What challenges did you solve
+	I solved the challenge of blocked tiles and gridlocked movement within the tile grid
+Before the Winter break, you were admonished to finish your maps and spritesheets - so that you would be ready to go with the game when we got back. Did you? Why or why not?
+	We were told that we could work over break, but there was no sense of urgency in that admonishment. I did not finish my map over break. I was absent from home for much of break, as I was spending time with family and friends
+Were you able to meet the timeline? Why or why not? [Focus on what you did or did not do. Journals ascribing blame to others will not be considered.
+	No. I am almost done, but the time requirement to finish this game is not easily available to me, as I have a busy schedule.
