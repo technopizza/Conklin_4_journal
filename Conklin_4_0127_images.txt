@@ -1,0 +1,9 @@
+How do you add an image to a slick game?
+
+	Create an image object  like so
+
+	Image image = new Image("res/image.png");
+
+Where is the image drawn? [What code? Be specific.]
+	The image is drawn in the render() method
+	If the image is part of an arrayList we will draw it inside a for loop
