@@ -1,0 +1,3 @@
+How would one check to see whether weapons damage enemies or objects in Slick?
+
+	we can use rect.intersects()to see if a weapon intersects with an enemy or object, and then we can assign damage via a variable in that enemy's or object's class 
