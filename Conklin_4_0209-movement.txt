@@ -1,0 +1,20 @@
+How can / will you make the orb move in the direction you are facing?
+
+Explain and provide specific code.
+
+I will use a string to track the direction
+
+
+ for (Orb o : orbs) {
+            if (o.direction == "up") {
+                o.setPositionY(o.getPositionY() - Orb.speed);
+
+            } else if (o.direction == "down") {
+                o.setPositionY(o.getPositionY() + Orb.speed);
+            } else if (o.direction == "right") {
+                o.setPositionX(o.getPositionX() + Orb.speed);
+            } else if (o.direction == "left") {
+                o.setPositionX(o.getPositionX() - Orb.speed);
+            }
+            o.setTimemoved(o.getTimemoved() + Orb.speed);
+        }
