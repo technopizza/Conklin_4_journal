@@ -1,0 +1,10 @@
+1. Moving orbs in more than one direction
+2. Assigning each orb a random image from a pool of images
+3. Making orbs kill enemies
+4. Making orbs disappear after a short time
+5. Making orbs bounce when they hit a wall
+6. Making orbs have their own animations
+7. Have special orbs that split into multiple regular orbs
+8. Diagonal movement for orbs
+9. Orbs which rotate as fired
+10. Orbs which spawn enemies that help you
