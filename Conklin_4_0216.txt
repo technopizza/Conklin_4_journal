@@ -1,0 +1,10 @@
+Describe: How was an array used in your Slick game?
+
+
+An array was used for checking the blocked status of tiles.
+It was a two dimensional array that used indeces to represent coordinates
+
+What might be another use for an array in a different program?
+
+An array would be a good way to keep track of a list of items with an unchanging length
+ - perhaps the planets around a solar system?
