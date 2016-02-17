@@ -1,0 +1,47 @@
+What are arrays used for
+	arrays are used for static-length lists of a single data type
+
+What is the code for an int array?
+
+	int[] myArray = new int[lengthOfMyArray];
+
+
+What is the code for an String array?
+
+	String[] fruit = new String[] {"apple", "banana", "pear"};
+
+	OR
+
+	String[] fruit = new String[3];
+
+What is the code for an boolean array?
+
+	boolean[] testAnswers = new boolean[numberOfQuestionsOnTheTest];
+
+What is the code for an double array?
+
+	double[] coordinates = new double[2];
+
+How would you change the first value of the int array to 42?
+	
+myArray[0] = 42;
+
+Of the String array to "Bob"?
+
+fruit[0] = "Bob";
+
+What does this do: private String[] dessert = new String[3];
+
+This creates an empty private String array with 3 items
+
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+
+This creates a private string array with 3 items, but the items themselves are already defined
+
+How are they different?
+
+One is creating an empty array, while the other fills the array with items
+
+How would we replace "bunuelos" with "apple pie"?
+
+postres[2] = "apple pie";
