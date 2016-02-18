@@ -1,0 +1,45 @@
+public Animation Playeranime, up, down, left, right, sprite, wait;
+    public Player() throws SlickException {
+        SpriteSheet runningSS = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
+
+
+This code creates a new animation object and uses pieces of the spritesheet
+for frames to add to the Animation.
+
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+	We are trying to learn general coding concepts. Slick is merely a tool to get us there. We want to memorize the coding practices, not the Slick syntax
+What is an array?
+	An array is a static length list of items with same data type
+How do you make an array? Give an example.
+	int[] myArray = new int[2];
+What is an ArrayList?
+	An arraylist is a variable-length list of different objects.
+How do you make an arraylist?
+	ArrayList myList = new ArrayList();
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+What are three useful arraylist methods that you identified?
+
+add()
+indexOf()
+size()
+
+What is the difference between an array and an arraylist?
+
+An ArrayList has a variable length and can contain different types of objects
+An  Array can only contain a single type of object and has a set length
+
+How could we make a health counter for an avatar?
+
+we could use an int
