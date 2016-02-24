@@ -1,0 +1,26 @@
+Define a class Rat
+
+
+Provide the code to declare and instatiate Rats
+
+class Rat{
+
+   int posx;
+   int posy;
+
+
+   Rat(int x, int y){
+	posx = x;
+	posy = y;
+   }
+
+   Rat remmy; //declaration
+   remmy = new Rat(10, 10); //initialization
+   
+   Rat[][] rats = new int[5][2];
+
+}
+
+Explain where the decaration and initialization are placed
+
+Provode a two-dimensional array that specifies coordinates for five rats
