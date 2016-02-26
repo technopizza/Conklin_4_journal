@@ -1,0 +1,15 @@
+What does the code below do?
+
+the code prints out a 9 by 9 grid of chars. whatever each value in the array is determines which character  each place in the grid will display
+
+How could you make it print an X? i.e., what array values would you change?
+
+for (int i = 0; i < map.length - 1; i++){
+	map[i][i] = 'X';
+	map[map.length - (1+i)][map.length - (1+i)] = 'X';
+} 
+
+How could you use this to make a 5 in a row game?
+
+We could have the program iterate through the grid verically, horizontally, and diagonally using 3 spereate for loops.
+Just make  the for loops keep track of characters in a row and if it is equal to 5, the game is over.
