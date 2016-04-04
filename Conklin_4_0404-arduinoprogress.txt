@@ -1,0 +1,12 @@
+
+
+What have you done?
+I have configured the arduino with an LCD screen that outputs temperature/Pressure
+What do you need to do?
+get the breaker beam working and add an alarm tone
+What will you be able to turn in on Friday?
+A break-beam security alarm
+What code changes are you writing?
+I have to add music and fluctuate the LCD Brightness
+What functions have you created?
+None as of yet, but many are on the way
