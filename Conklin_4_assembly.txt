@@ -1,0 +1,13 @@
+
+    What is assembly?
+	Assembly is a low-level programming language that almost directly corresponds to machine code
+    What is it good for?
+	Assembly is good for implementations where speed and/or storage efficiency are paramount
+    How is assembly different than Java?
+	Whereas Java is a high-level object-oriented language, Assembly is a low-level procedural language
+    What are differences between high level and low level languages?
+	High level languages are built upon low-level languages and tend to have more highly abstracted and structured functions. Low level languages are much more basic and rudimentary. 
+    Which type is Java? How do you know, i.e., what characteristics does it have of that language type?
+	Java is a high-level becuase of its objects, classes, Arrays, and abstract concepts
+    Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+		Assemblyn is a low-level
