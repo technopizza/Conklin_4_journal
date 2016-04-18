@@ -1,0 +1,33 @@
+For what computational reason did you type elf64?
+	to tell the computer to format the assembly code  into an object file using elf64
+Why did you use ld?
+	ld links the sample.asm object to sample.o executable file
+Why did you not have to use chmod to make sample executable?
+	because sample is an object file
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+Post the code in your journal
+
+global _start
+        section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1
+        mov     rdi, 1
+        mov     rsi, message
+        mov     rdx, 15
+        syscall
+
+        ; exit(0)
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+message:
+        db      "Was this easy?", 10
+
+
+What problem did you have to solve to get it to work?
+	Changing the output text
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+	No. Assembly requires thorough knowledge of low level systems
+What does 'low level' actually mean with regards to programming languages?
+	Low level means similar to machine code
