@@ -1,0 +1,7 @@
+Describe - what similarities do you notice between assembly and Human Resource Machine?
+
+	CMP in assembly performs the same function as subtract does in HR: subtracts one value from another
+	both assembly and HRM have jumps, conditional and unconditional
+
+Describe - what differences do you notice between assembly and Human Resource Machine?
+	assembly commands are written in all capital letters and areabbreviated versions of the words they represent. HRM uses full lowercase words to represent commands
