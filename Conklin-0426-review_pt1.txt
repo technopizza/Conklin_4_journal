@@ -1,0 +1,55 @@
+Write a Java method to return the cubed value of some number.
+
+	int cubeNumber(int number){
+		return number * number * number;
+	}
+
+Write an Arduino function to return the cubed value of some number.
+	
+	int cubeNumber(int number){
+		return number * number * number;
+	}
+
+Create the class, an object, and class constructor for class student
+
+	public class Student {
+    private String name;
+    private int grade;
+    private int seatNumber;
+
+    public Student(String name, int grade) {
+        this.name = name;
+        this.grade = grade;
+    }
+
+    public int getGrade() {
+        return grade;
+    }
+
+    public void setGrade(int grade) {
+        this.grade = grade;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getSeatNumber() {
+        return seatNumber;
+    }
+
+    public void setSeatNumber(int seatNumber) {
+        this.seatNumber = seatNumber;
+    }
+    
+    
+}
+
+Describe - if we were to continue with Arduino - what would you create?
+
+I would improve upon my home automation project to create  more expansive platform for home automation 
+including a video monitoring system, text messaging, etc.
