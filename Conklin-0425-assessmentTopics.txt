@@ -1,0 +1,10 @@
+1. Basic Java Syntax such as how to declare/initialize variables, difference between int, float, etc.
+2. Basic OOP, such as building classes and constructors
+3. Methods, how they work, and Getters/Setters
+4. Arrays, both 1 and 2 dimensional
+5. For and While Loops
+6. Conditional if/else
+7. try/catch
+8. User input
+9. data type conversion and concatenation
+10. psuedocode and critical thinking skills
