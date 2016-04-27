@@ -1,0 +1,6 @@
+
+Why, then, are students encouraged to learn CS?
+	Students are encouraged to learn CS because it helps those students to practice higher-level cognitive function of infering and creating new ideas based on given information, as opposed to merely regurgitating information.
+	Learning the rules and patterns of CS and how they apply across different languages and situations is a model for real life success
+What should students learn from CS?
+	Students should be learning how to solve problems and extrapolate solutions given limited information
