@@ -1,0 +1,133 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package test;
+
+/**
+ *
+ * @author jconklin2391
+ */
+public class Hero {
+    
+    private String name;
+    private int health;
+    private int score;
+    private int power;
+    private int dexterity;
+    private int perception;
+    private int level;
+    private int x;
+    private int y;
+    private int z;
+    private char symbol;
+    
+    public Hero(String name, int x, int y, char symbol) {
+        this.name = name;
+        this.x = x;
+        this.y = y;
+        this.symbol = symbol;
+    }
+
+    public char getSymbol() {
+        return symbol;
+    }
+
+    public void setSymbol(char symbol) {
+        this.symbol = symbol;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getHealth() {
+        return health;
+    }
+
+    public void setHealth(int health) {
+        this.health = health;
+    }
+
+    public int getScore() {
+        return score;
+    }
+
+    public void setScore(int score) {
+        this.score = score;
+    }
+
+    public int getPower() {
+        return power;
+    }
+
+    public void setPower(int power) {
+        this.power = power;
+    }
+
+    public int getDexterity() {
+        return dexterity;
+    }
+
+    public void setDexterity(int dexterity) {
+        this.dexterity = dexterity;
+    }
+
+    public int getPerception() {
+        return perception;
+    }
+
+    public void setPerception(int perception) {
+        this.perception = perception;
+    }
+
+    public int getLevel() {
+        return level;
+    }
+
+    public void setLevel(int level) {
+        this.level = level;
+    }
+
+    public int getX() {
+        return x;
+    }
+
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+    public int getZ() {
+        return z;
+    }
+
+    public void setZ(int z) {
+        this.z = z;
+    }
+    
+    
+}
+
+
+
+Example:
+
+
+
+Hero hero = new Hero("Jason", 1, 1, 'J'');
+
+
+Objects are made to be used in other classes. An object should not be initialized in its own class

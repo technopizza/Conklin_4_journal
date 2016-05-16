@@ -1,0 +1,9 @@
+Nested for loops allow for iteration through 2D arrays.
+
+On each iteration of the first loop, the whole of the second loop runs. 
+
+this allows for to index variables instead of one, so indexing can be done to 2D arrays
+
+Example
+
+myItem[i][j] = new Item();

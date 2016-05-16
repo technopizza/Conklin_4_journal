@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+    In the Array Game assignment you have had to review and revisit concepts you may have forgotten about. These will all be tested on the final exam!
+    What is an array?
+	An array is a static length list of "things" of one particular type
+    How does one make a simple array of Strings?
+	String[] stringArray = new String{"Dog", "Cat", "Hamster"};
+    What is the syntax for a 2-D array?
+	int[][] my2DArray = new int[2][2];
+    What is the syntax for a 3-D array?
+	int[][][] my3dArray = new int[2][3][4];
+    How does one change the value for the third value in a one dimensional array? [Give specific code]
+	myarray[2] = 3;
+    What is the syntax for a while loop?
+	while(true){
+		//do stuff
+	}
+    Why use while loops in your game?
+	A while loop allows repetition so the game continues indefinitely
+    Your game should be in a method outside of main --- How will you call your game in main?
+	just call the game method
+    Why was it recommended that you use .toLowerCase() with your Scanner input?
+	This will make all input lowercase, allowing easier checks since you know it wil always be lowercase
+    You should use different methods when moving the protagonist and to check for intersections. How? Why?
+	Different functional elements of our game should be separated into different methods for more precise manipulation of data
+    What values will you pass across methods? how? why?
+	Things such as our 2D grid array and coordinates of the player should be passed, so that methods are used to modify the proper objects
+
